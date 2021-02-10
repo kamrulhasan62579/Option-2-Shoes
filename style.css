@@ -1,0 +1,80 @@
+.size img{
+    width: 300px;
+}
+.nike{
+    color: orange;
+    font-size: 80px;
+    font-family:fantasy;
+}
+.hasan{
+   color: rebeccapurple;
+   font-size: 80px;
+   font-family:fantasy;
+}
+.group-3 img{
+    width: 550px;
+}
+.up-para{
+    color: rosybrown;
+    font-size: 1em;
+}
+.tap{
+    padding: 10px;
+}
+.second-section{
+    height: 650px;
+}
+.xmltd{
+    width: 550px;
+    position: relative;
+    top: 25%;
+}
+.fahad img{
+    width: 100px;
+}
+.middle{
+    text-align: center;
+}
+.bac{
+    background-color: palegoldenrod;
+    padding: 70px;
+}
+.remove-bord{
+    border: none;
+}
+.razib{
+    border: none;
+}
+
+@media(width :668;){
+    .single{
+        grid-template-columns: repeat(1, 1fr);
+    }
+}
+@media(width :992;){
+    .single{
+        grid-template-columns: repeat(1, 1fr);
+    }
+}
+
+.cool img{
+    width:80%;
+}
+.single img{
+    width: 85%;
+}
+.cooling{
+    position: relative;
+    top: 50px;
+}
+.casual-shoes{
+    height:100%;
+    
+}
+.last-section{
+    position: relative;
+    top: 30px;
+}
+.remove{
+    border: 0px;
+}
